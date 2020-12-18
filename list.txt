@@ -10,3 +10,11 @@ monitor.channel4.com
 dsa.moatads.com
 2a7e9.v.fwmrm.net
 2356e.v.fwmrm.net
+app-analytics.snapchat.com
+snapads.com
+analytics.snapchat.com
+adserver.snapads.com
+ase.adserver.snapads.com
+euw.adserver.snapads.com
+usc.adserver.snapads.com
+use.adserver.snapads.com
