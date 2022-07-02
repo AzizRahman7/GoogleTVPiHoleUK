@@ -20,4 +20,3 @@ ibl.api.bbci.co.uk
 mybbc.files.bbci.co.uk
 emp.bbci.co.uk
 component.iplayer.api.bbc.co.uk
-bbc.co.uk/iplayer
